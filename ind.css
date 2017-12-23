@@ -1,0 +1,108 @@
+/*Header Adjustments CSS///////////////////*/
+.navbar-inverse {
+    margin-bottom: 0px;
+}
+
+/*FOOTER START///////////////////*/
+.footer {
+    padding: 40px 0 20px 0;
+    background-color: #090c14;
+    color: #878c94;
+}
+.footer .title{
+    text-align: left;
+    color:#fff;
+    font-size:25px;
+}
+.footer .social-icon{
+    padding:0px;
+    margin:0px;
+}
+.footer .social-icon a{
+    display:inline-block;
+    color:#fff;
+    font-size:25px;
+    padding:5px;
+}
+.footer .payment{
+    margin:0px;
+    padding:0px;
+    list-style-type:none
+}
+.footer .payment li{
+    list-style-type:none
+}
+.footer .payment li a {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    float: left;
+    font-size: 25px;
+    padding: 10px 10px;
+}
+
+
+/*Body CSS///////////////////*/
+.carousel-caption a {
+
+    color: Black;
+    font-family: "Droid Sans Mono Dotted";
+    height: 2%;
+    width: 3%;
+}
+
+/*Content CSS///////////////////*/
+
+ #back{
+     padding-bottom: 5px;
+
+    background-image: url(images/marriage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#birthback{
+    padding-bottom: 5px;
+    background-image: url(images/Birthday.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#meetback{
+    padding-bottom: 5px;
+    background-image: url(images/office.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#marriage{
+    padding-top: 1%;
+
+    background-color: red;
+}
+#birthday{
+    padding-top: 1%;
+    background-color: gold;
+
+}
+#meetings{
+    padding-top: 1%;
+    background-color: blue;
+
+}
+
+.col-sm-4{
+    padding-left: 0%;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.container-fluid{
+    padding-left: 0%;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
