@@ -15,9 +15,9 @@ $(document).ready(function(){
 
     // Enable Carousel Controls
     $(".left").click(function(){
-        $("#myCarousel").carousel("prev");
+        $("#myCarousel").carousel("previous");
     });
     $(".right").click(function(){
-        $("#myCarousel").carousel("next");
+        $("#myCarousel").carousel("nextious");
     });
 });
